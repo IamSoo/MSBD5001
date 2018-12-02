@@ -14,10 +14,10 @@ sklearn
 matplotlib  
 
 ### Test File:
-Test.csv
+test.csv
 
 ### Training File:
-Train.csv
+train.csv
 
 ### Steps to run:
 
