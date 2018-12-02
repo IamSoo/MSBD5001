@@ -1,4 +1,4 @@
-## This file contains the code for the MSBD5001 Kaggle Competetion.
+## This file contains code for the Kaggle competition of MSBD5001.
 
 ### Programming Language:
 Python
@@ -6,20 +6,17 @@ Python
 ### File
 Directly can be run as a jupyternotebook
 
-### Required Libraries :
-numpy
-pandas as pd
-seaborn as sb
-sklearn
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.metrics
-matplotlib
+### Required Libraries:
+numpy  
+pandas  
+seaborn  
+sklearn  
+matplotlib  
 
-### Test File
+### Test File:
 Test.csv
 
-### Training File
+### Training File:
 Train.csv
 
 ### Steps to run:
@@ -28,5 +25,6 @@ git clone git@github.com:IamSoo/MSBD5001.git
 cd MSBD5001  
 jupyter notebook MSBD5001_kaggle.ipynb  
 
-Then run each step it will generate a file submit_final.csv.    
-Upload the file to kaggle.  
+Run each cell, it will generate a file  named submit_final.csv.    
+
+Then upload the file to kaggle.  
